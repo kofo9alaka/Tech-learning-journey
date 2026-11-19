@@ -2,7 +2,7 @@
 Everytime you tap a link or type a website name into your browser, you are using a **URL**. Understanding how a URLs works helps you navigate the web safely,share specific files accurately, and troubleshoot broken links.
 ## What is a URL?
 **URL** stands for **Uniform Resources Locator**. In plain English, it is the unique web address of a specific page, document, image, or video on the internet.
-Think of a URL like a ** physical house address**:
+Think of a URL like a **physical house address**:
 * Just as a postal worker needs a country, street name, and house number to deliver a letter to the right door, your web browser needs a complete URL to locate and display a specific file stored on a remote computer (server).
 
   ---
@@ -10,7 +10,7 @@ Think of a URL like a ** physical house address**:
   ## Anatomy of a URL
   To see how a web address works, break down this example of a GitHub file link:
   
-  `https://www.guthub.com/samples/understanding-urls.md`
+  `https://www.github.com/samples/understanding-urls.md`
   |Part | Examples | What it Does |
   |:--- | :--- | :--- |
   | **Protocol (Scheme)** | `https://` | Tells your browser *how* to connect to the website and whether the connection is encrypted. |
